@@ -1,0 +1,2 @@
+# 1行に1つ、公式マニフェストのURLを記載してください。
+https://da.library.pref.osaka.jp/api/items/01-0024654/manifest.json
